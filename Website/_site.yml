@@ -2,7 +2,7 @@ name: "Website"
 title: "Madawa Jayawardana"
 description: |
   This is my website...
-output_dir: "."
+output_dir: "_site"
 navbar:
   right:
     - text: "Home"
