@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to ",
-    "description": "Welcome to our new blog, . We hope you enjoy \nreading what we have to say!",
+    "title": "Welcome to My Blog",
+    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
         "name": "Nora Jones",
@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-11T12:32:44+11:00",
+    "last_modified": "2021-02-11T13:03:29+11:00",
     "input_file": {}
   }
 ]
